@@ -31,7 +31,7 @@ I'm a **Computer Programming** student focusing on **C#** and **Python** develop
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tmertarin&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0D1117" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tmertarin&theme=dark&hide_border=true&background=0D1117&ring=2892D7&fire=2892D7&currStreakNum=2892D7" alt="Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tmertarin&layout=compact&locale=en&theme=dark&hide_border=true&bg_color=0D1117" alt="Langs" />
 </p>
 
