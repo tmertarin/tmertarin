@@ -1,23 +1,23 @@
-# 👋 Selam, ben Mert Arin!
+# 👋 Hi, I'm Mert Arin!
 
-**Bilgisayar Programcılığı Öğrencisi @ Van Yüzüncü Yıl Üniversitesi**
+**Computer Programming Student & Developer**
 
 ---
 
-### 🛠️ Neler Kullanıyorum?
-* **Diller:** Python, C#, PHP, JavaScript
-* **Veritabanı & OS:** SQL, Linux
-* **Araçlar:** Git, VS Code
+### 🛠️ Tech Stack
+* **Languages:** Python, C#, PHP, JavaScript
+* **Database & OS:** SQL, Linux
+* **Tools:** Git, VS Code
 
-### 🚀 Öne Çıkanlar
-* **Connor Bot:** Detroit: Become Human temalı Discord botu.
-* **FileEncryptor:** C# ile dosya şifreleme uygulaması.
+### 🚀 Projects
+* **Connor Bot:** A Discord bot themed around *Detroit: Become Human*.
+* **FileEncryptor:** A file encryption application built with C#.
 
-### 🔗 İletişim
-Tüm bağlantılarım burada: [guns.lol/tmertarin](https://guns.lol/tmertarin)
+### 🔗 Contact
+Find all my links here: [guns.lol/tmertarin](https://guns.lol/tmertarin)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tmertarin&show_icons=true&theme=dark&hide_border=true" alt="Mert'in İstatistikleri" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tmertarin&show_icons=true&theme=dark&hide_border=true" alt="Mert's Stats" />
 </p>
