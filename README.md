@@ -5,7 +5,7 @@
 ---
 
 ### 🛠️ Tech Stack
-* **Languages:** Python, C#, PHP, JavaScript
+* **Languages:** Python, C#, Nodejs
 * **Database & OS:** SQL, Linux
 * **Tools:** Git, VS Code
 
@@ -14,7 +14,7 @@
 * **FileEncryptor:** A file encryption application built with C#.
 
 ### 🔗 Contact
-Find all my links here: [guns.lol/tmertarin](https://guns.lol/tmertarin)
+Find all my links here: [guns.lol/darkbyte192](https://guns.lol/darkbyte192)
 
 ---
 
